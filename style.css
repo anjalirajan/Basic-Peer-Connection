@@ -1,0 +1,7 @@
+div#border-width {
+    float: left;
+    border-style: solid;
+    border-color: red;
+    margin: 0 5px;
+    overflow:thin;
+}
